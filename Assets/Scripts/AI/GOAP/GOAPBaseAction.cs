@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 
-public class GOAPBaseAction : MonoBehaviour
+public abstract class GOAPBaseAction : MonoBehaviour
 {
 
 
